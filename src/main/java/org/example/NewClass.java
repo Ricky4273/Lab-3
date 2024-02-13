@@ -18,6 +18,6 @@ public class NewClass {
         }
         return largest; // 1
         // The algorithm has a time complexity of O(n)^2 because the while loop happens n/sz times and
-        /*  the inner loop will run for n-1, n-2 etc times. N * N-1 is roughly N^2.
+        //  the inner loop will run for n-1, n-2 etc times. N * N-1 is roughly N^2.
     }
 }
